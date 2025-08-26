@@ -24,8 +24,6 @@ It uses the **OpenWeatherMap API** to fetch live weather data.
 ## 🚀 Live Demo
 👉 [View on GitHub Pages](https://paras9771.github.io/weather-app/)
 
-*(Replace `your-username` with your GitHub username and `weather-app` with your repo name.)*
-
 ---
 
 ## 🛠️ Technologies Used
